@@ -1,0 +1,7 @@
+C:\Users\pravinkumarj\source\repos\StudentPerfomenceTRacker\StudentPerfomenceTRacker\bin\Debug\StudentPerfomenceTRacker.exe.config
+C:\Users\pravinkumarj\source\repos\StudentPerfomenceTRacker\StudentPerfomenceTRacker\bin\Debug\StudentPerfomenceTRacker.exe
+C:\Users\pravinkumarj\source\repos\StudentPerfomenceTRacker\StudentPerfomenceTRacker\bin\Debug\StudentPerfomenceTRacker.pdb
+C:\Users\pravinkumarj\source\repos\StudentPerfomenceTRacker\StudentPerfomenceTRacker\obj\Debug\StudentPerfomenceTRacker.csproj.AssemblyReference.cache
+C:\Users\pravinkumarj\source\repos\StudentPerfomenceTRacker\StudentPerfomenceTRacker\obj\Debug\StudentPerfomenceTRacker.csproj.CoreCompileInputs.cache
+C:\Users\pravinkumarj\source\repos\StudentPerfomenceTRacker\StudentPerfomenceTRacker\obj\Debug\StudentPerfomenceTRacker.exe
+C:\Users\pravinkumarj\source\repos\StudentPerfomenceTRacker\StudentPerfomenceTRacker\obj\Debug\StudentPerfomenceTRacker.pdb
