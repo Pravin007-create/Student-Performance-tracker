@@ -310,7 +310,7 @@ namespace StudentPerfomenceTRacker
                         Console.WriteLine();
                         foreach (string subject in student.SubjectMarks.Keys)
                         {
-                            Console.WriteLine(string.Format("{0,-10}{1,-5)", subject, student.SubjectMarks[subject]));
+                            Console.WriteLine(string.Format("{0,-10}{1,-5}", subject, student.SubjectMarks[subject]));
 
 
                         }
